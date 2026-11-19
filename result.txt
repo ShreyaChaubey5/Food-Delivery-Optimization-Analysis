@@ -1,0 +1,46 @@
+## 1. Delivery Time Performance Analysis – Conclusion
+
+The analysis of 45,584 food delivery orders revealed that the average delivery time was 26.29 minutes, while the median delivery time was 26 minutes. The most frequent delivery-time interval was 20–30 minutes.
+
+Approximately 29.84% of orders took more than 30 minutes, indicating that a considerable proportion of deliveries experienced longer delivery times.
+
+The traffic analysis revealed a strong association between traffic density and delivery performance:
+
+- Jam traffic: Highest average delivery time at 31.18 minutes, with 50.63% of orders exceeding 30 minutes.
+- High traffic: Average delivery time of 27.24 minutes, with 33.57% of orders exceeding 30 minutes.
+- Medium traffic: Average delivery time of 26.70 minutes, with 32.47% of orders exceeding 30 minutes.
+- Low traffic: Lowest average delivery time at 21.27 minutes, with only 7.87% of orders exceeding 30 minutes.
+
+These findings suggest that traffic congestion is an important operational factor associated with longer delivery times.
+
+Business Recommendation: Food delivery operations could investigate traffic-aware route planning, better rider allocation during peak congestion,
+and strategies to reduce delays under heavy traffic conditions.
+
+Overall, this analysis establishes a baseline for delivery performance and identifies traffic congestion as a key area for further operational investigation.
+
+
+
+2. Weather Impact Analysis – Conclusion
+
+The analysis revealed that weather conditions are associated with differences in food delivery performance.
+
+Fog and Cloudy conditions recorded the highest average delivery times, at approximately 28.91 and 28.92 minutes, respectively. 
+They also had the highest percentage of orders exceeding 30 minutes, at approximately 43.79%.
+
+In contrast, Sunny conditions recorded the lowest average delivery time of 21.86 minutes, with only 12.52% of orders taking more than 30 minutes.
+
+Further analysis combining weather and traffic conditions revealed that Fog under Jam traffic had an average delivery time of 36.81 minutes, compared with 23.08 minutes under Sunny and Jam conditions. 
+This represents a difference of 13.73 minutes.
+
+These findings suggest that weather conditions may be an important factor associated with delivery performance, particularly when combined with traffic congestion.
+
+Business Recommendation: Delivery operations should investigate additional precautions and route-planning strategies during foggy and cloudy conditions, especially during heavy traffic.
+
+Overall, weather conditions provide another important dimension for understanding delivery-time variation and identifying opportunities for operational improvement.
+
+
+3. Delivery partner performance analysis.
+
+Traffic congestion is a major operational factor associated with delayed food deliveries. Metropolitan orders under Jam traffic account for the largest concentration of delayed orders.
+ The 19:00–21:00 period represents a particularly important intervention window, with 5,655 delayed orders in the analyzed segment. 
+Reducing its delay rate from 53.77% to 48% could potentially avoid approximately 607 delayed orders at the observed volume.

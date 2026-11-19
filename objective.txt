@@ -1,0 +1,7 @@
+Food Delivery Operations & Delivery Time Optimization Analytics
+
+1. Delivery time performance analysis.
+
+2. Traffic and weather impact analysis.
+
+3. Delivery partner performance analysis.
